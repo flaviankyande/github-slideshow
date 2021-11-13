@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+"Nothing inspires cleanliness more than an unexpected guest." - Radhika Munda
 Use the left arrow to go back!
